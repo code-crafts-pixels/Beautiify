@@ -38,7 +38,7 @@ Beautiify is ideal for frontend developers, designers, and students who want rea
 
 <!-- --------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
-
+<!--
 <h3>Home/Main Page :-</h3>
 <a href="https://github.com/code-crafts-pixels/Beautiify/tree/main/preview" target="_blank">
   <img width="1920" height="1080" alt="Screenshot 2026-01-31 200424" 
@@ -62,6 +62,32 @@ Beautiify is ideal for frontend developers, designers, and students who want rea
 
 <a href="https://github.com/code-crafts-pixels/Beautiify/tree/main/preview" target="_blank">
   <img width="1920" height="1080" alt="Screenshot 2026-01-31 200452" 
+  src="https://github.com/user-attachments/assets/ca5639fc-a4ca-4db3-97be-81f1c144f9b1" />
+</a>
+-->
+<h3>Home/Main Page :-</h3>
+<a href="https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200424.png" target="_blank">
+  <img width="1920" height="1080" alt="Home Page"
+  src="https://github.com/user-attachments/assets/ccdaff28-7939-4ede-8749-dad3826c4dec" />
+</a>
+
+<h3>Components Page :-</h3>
+<a href="https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200442.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 1"
+  src="https://github.com/user-attachments/assets/489ebe1b-001d-412d-861b-f7e86e2ba507" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200447.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 2"
+  src="https://github.com/user-attachments/assets/64a42567-ff84-4fc1-bb45-4226950fd4b2" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200452.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 3"
   src="https://github.com/user-attachments/assets/ca5639fc-a4ca-4db3-97be-81f1c144f9b1" />
 </a>
 
