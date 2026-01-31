@@ -25,29 +25,29 @@ Beautiify is ideal for frontend developers, designers, and students who want rea
 ## Screenshots
 
 <h3>Home/Main Page :-</h3>
-<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200424.png" target="_blank">
+<a href="preview/Screenshot 2026-01-31 200424.png" target="_blank">
   <img width="1920" height="1080" alt="Home Page"
-  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200424.png" />
+  src="preview/Screenshot 2026-01-31 200424.png" />
 </a>
 
 <h3>Components Page :-</h3>
-<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200442.png" target="_blank">
+<a href="preview/Screenshot 2026-01-31 200442.png" target="_blank">
   <img width="1920" height="1080" alt="Components Page 1"
-  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200442.png" />
+  src="preview/Screenshot 2026-01-31 200442.png" />
 </a>
 
 <br><br>
 
-<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200447.png" target="_blank">
+<a href="preview/Screenshot 2026-01-31 200447.png" target="_blank">
   <img width="1920" height="1080" alt="Components Page 2"
-  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200447.png" />
+  src="preview/Screenshot 2026-01-31 200447.png" />
 </a>
 
 <br><br>
 
-<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200452.png" target="_blank">
+<a href="preview/Screenshot 2026-01-31 200452.png" target="_blank">
   <img width="1920" height="1080" alt="Components Page 3"
-  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200452.png" />
+  src="preview/Screenshot 2026-01-31 200452.png" />
 </a>
 
 
