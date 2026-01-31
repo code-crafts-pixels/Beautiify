@@ -24,15 +24,31 @@ Beautiify is ideal for frontend developers, designers, and students who want rea
 
 ## Screenshots
 
-### Home/Main Page
-[![Home Page](https://github.com/user-attachments/assets/ccdaff28-7939-4ede-8749-dad3826c4dec)](https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200424.png)
+<h3>Home/Main Page :-</h3>
+<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200424.png" target="_blank">
+  <img width="1920" height="1080" alt="Home Page"
+  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200424.png" />
+</a>
 
-### Components Page
-[![Components Page 1](https://github.com/user-attachments/assets/489ebe1b-001d-412d-861b-f7e86e2ba507)](https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200442.png)
+<h3>Components Page :-</h3>
+<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200442.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 1"
+  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200442.png" />
+</a>
 
-[![Components Page 2](https://github.com/user-attachments/assets/64a42567-ff84-4fc1-bb45-4226950fd4b2)](https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200447.png)
+<br><br>
 
-[![Components Page 3](https://github.com/user-attachments/assets/ca5639fc-a4ca-4db3-97be-81f1c144f9b1)](https://github.com/code-crafts-pixels/Beautiify/blob/main/preview/Screenshot%202026-01-31%20200452.png)
+<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200447.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 2"
+  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200447.png" />
+</a>
+
+<br><br>
+
+<a href="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200452.png" target="_blank">
+  <img width="1920" height="1080" alt="Components Page 3"
+  src="https://raw.githubusercontent.com/code-crafts-pixels/Beautiify/main/preview/Screenshot%202026-01-31%20200452.png" />
+</a>
 
 
 
